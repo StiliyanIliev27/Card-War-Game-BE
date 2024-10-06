@@ -1,0 +1,6 @@
+@Card_War_Game_BE_HostAddress = http://localhost:5186
+
+GET {{Card_War_Game_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
